@@ -1,4 +1,5 @@
-Tutorials:
+Tutorials
+-------------
 
 http://www.deeplearningbook.org/
 
@@ -21,7 +22,8 @@ http://scikit-learn.org/stable/documentation.html
 https://docs.microsoft.com/en-us/cognitive-toolkit/
 
 
-Playground:
+Playground
+-------------
 
 http://cs.stanford.edu/people/karpathy/convnetjs/
 
